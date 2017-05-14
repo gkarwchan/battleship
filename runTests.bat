@@ -1,0 +1,1 @@
+packages\NSpec.3.0.7\tools\net451\win7-x64\NSpecRunner.exe Battleship.Model.Tests\bin\debug\Battleship.Model.Tests.dll
